@@ -1,0 +1,26 @@
+Lập trình C với vi điều khiển
+1. Sơ lược ngôn ngữ lập trình C
+   Thiết lập môi trường lập trình C
+   C101 - Hello World
+2. Các cấu trúc cơ bản
+3. Hàm
+4. Mảng - Con trỏ - Chuỗi - Cấu trúc
+5. Arduino101 - Blinky
+ . Arduino - I/O
+ . Arduino - I/O Nâng cao
+6. Arduino - Lcd 16x2
+7. Arduino - I/O với Máy tính
+8. Arduino - ngắt với attachInterrupt()
+9. Arduino - Giao tiếp UART và USART
+10. Arduino - PWM
+Nâng cao 
+1. Arduino - Giao tiếp SPI
+2. Arduino - Đọc ghi ic flash
+3. Arduino - Giao tiếp TWI (I2C)
+4. Arduino - Đọc ghi ic eeprom
+5. Arduino - Step motor - Servo
+6. Arduino - Tạo âm thanh với PWM
+7. Project - Phát nhạc lưu trên ic flash
+8. Arduino - Sensor
+9. Arduino - Phân biệt thư viện chuẩn C và thư viện cho vi điều khiển
+.....
